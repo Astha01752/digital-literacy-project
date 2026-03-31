@@ -1,0 +1,7 @@
+A study of cybercrime was done and prevention methods were learned.
+
+Prevention:
+- Use strong passwords  
+- Do not share OTP  
+- Avoid suspicious links  
+- Use antivirus software
